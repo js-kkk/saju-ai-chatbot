@@ -5,7 +5,7 @@
 ## 📌 프로젝트 개요
 한국 전통 명리학(사주팔자)에 기반한 AI 챗봇<br/>
 생년월일과 태어난 시간을 입력하면, 음력 변환 → 분석에 필요한 정보 추출 → 사주 분석 → 대화형 상담 진행<br/>
-**한국천문연구원 OpenAPI[(링크)](https://www.data.go.kr/data/15012679/openapi.do#tab_layer_prcuse_exam)**와 **EEVE-Korean-10.8B LLM**, **Gradio**를 활용하여 사주 정보를 제공
+**한국천문연구원 OpenAPI**[(링크)](https://www.data.go.kr/data/15012679/openapi.do#tab_layer_prcuse_exam)와 **EEVE-Korean-10.8B LLM**, **Gradio**를 활용하여 사주 정보를 제공
 
 ## 🖼️ 메인 화면
 
