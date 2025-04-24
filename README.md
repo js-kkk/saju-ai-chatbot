@@ -1,4 +1,4 @@
-# 🔮 사주 AI 챗봇(https://ee130360e5c2e0983a.gradio.live)
+# 🔮 사주 AI 챗봇(https://d39f2dd9a9bf67ef54.gradio.live)
 
 > **📅 프로젝트 기간:** 2025년 4월 20일(토) ~ 2025년 4월 24일(목)
 
