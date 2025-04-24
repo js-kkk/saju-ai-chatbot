@@ -2,16 +2,20 @@
 
 > **📅 프로젝트 기간:** 2025년 4월 20일(토) ~ 2025년 4월 24일(목)
 
+## 📌 프로젝트 개요
+한국 전통 명리학(사주팔자)에 기반한 AI 챗봇<br/>
+생년월일과 태어난 시간을 입력하면, 음력 변환 → 분석에 필요한 정보 추출 → 사주 분석 → 대화형 상담 진행<br/>
+**한국천문연구원 OpenAPI**와 **EEVE-Korean-10.8B LLM**, **Gradio**를 활용하여 사주 정보를 제공
+
 ## 🖼️ 메인 화면
 
 ![Image](https://github.com/user-attachments/assets/a9d2e510-fc70-442b-b30c-0be15c27dae3) 
 ![Image](https://github.com/user-attachments/assets/68bb44fa-26e0-49ad-a6c1-327b741cfdd9) 
 
+## 실제 플레이 화면
 
-## 📌 프로젝트 개요
-한국 전통 명리학(사주팔자)에 기반한 AI 챗봇<br/>
-생년월일과 태어난 시간을 입력하면, 음력 변환 → 분석에 필요한 정보 추출 → 사주 분석 → 대화형 상담 진행<br/>
-**한국천문연구원 OpenAPI**와 **EEVE-Korean-10.8B LLM**, **Gradio**를 활용하여 사주 정보를 제공
+![Image](https://github.com/user-attachments/assets/62d760c4-b2b2-4b24-9bae-54796f7f4759) 
+![Image](https://github.com/user-attachments/assets/243a9fb0-a7b9-44c4-8a0c-b3a1f4997389) 
 
 ---
 
@@ -47,10 +51,6 @@
 ### 💬 챗봇 대화 기능
 - `ChatInterface`를 이용한 대화형 상담
 - 사용자가 사주에 대해 추가 질문을 할 수 있으며, 지속적 맥락을 유지
-
-### 🧩 유저 컨텍스트 저장
-- 이름, 생년월일, 태어난 시간 정보를 저장하여 챗봇이 사용자의 맥락을 유지
-- 추후 상담에서도 이전 대화 기반으로 응답 가능 
 
 ---
 
