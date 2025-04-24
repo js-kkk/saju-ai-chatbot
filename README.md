@@ -4,7 +4,8 @@
 
 ## 🖼️ 메인 화면
 
-![main-interface](images/main_interface.png)
+![Image](https://github.com/user-attachments/assets/a9d2e510-fc70-442b-b30c-0be15c27dae3) 
+![Image](https://github.com/user-attachments/assets/68bb44fa-26e0-49ad-a6c1-327b741cfdd9) 
 
 
 ## 📌 프로젝트 개요
